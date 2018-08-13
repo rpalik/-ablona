@@ -1,0 +1,126 @@
+% $ biblatex auxiliary file $
+% $ biblatex bbl format version 2.8 $
+% Do not modify the above lines!
+%
+% This is an auxiliary file used by the 'biblatex' package.
+% This file may safely be deleted. It will be recreated by
+% biber as required.
+%
+\begingroup
+\makeatletter
+\@ifundefined{ver@biblatex.sty}
+  {\@latex@error
+     {Missing 'biblatex' package}
+     {The bibliography requires the 'biblatex' package.}
+      \aftergroup\endinput}
+  {}
+\endgroup
+
+
+\refsection{0}
+  \sortlist[entry]{none/global/}
+    \entry{book}{book}{}
+      \name{author}{1}{}{%
+        {{hash=c903f1435ec07d8f88559a7b190d066f}{%
+           family={Babington},
+           familyi={B\bibinitperiod},
+           given={Peter},
+           giveni={P\bibinitperiod}}}%
+      }
+      \list{location}{1}{%
+        {The address}%
+      }
+      \list{publisher}{1}{%
+        {The name of the publisher}%
+      }
+      \strng{namehash}{c903f1435ec07d8f88559a7b190d066f}
+      \strng{fullhash}{c903f1435ec07d8f88559a7b190d066f}
+      \strng{authornamehash}{c903f1435ec07d8f88559a7b190d066f}
+      \strng{authorfullhash}{c903f1435ec07d8f88559a7b190d066f}
+      \field{sortinit}{1}
+      \field{sortinithash}{27a2bc5dfb9ed0a0422134d636544b5d}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{edition}{3}
+      \field{isbn}{3257227892}
+      \field{month}{7}
+      \field{note}{An optional note}
+      \field{series}{10}
+      \field{title}{The title of the work}
+      \field{volume}{4}
+      \field{year}{1993}
+    \endentry
+    \entry{article}{article}{}
+      \name{author}{1}{}{%
+        {{hash=dd086e74be93272cf08edc6ba7a82653}{%
+           family={Adams},
+           familyi={A\bibinitperiod},
+           given={Peter},
+           giveni={P\bibinitperiod}}}%
+      }
+      \strng{namehash}{dd086e74be93272cf08edc6ba7a82653}
+      \strng{fullhash}{dd086e74be93272cf08edc6ba7a82653}
+      \strng{authornamehash}{dd086e74be93272cf08edc6ba7a82653}
+      \strng{authorfullhash}{dd086e74be93272cf08edc6ba7a82653}
+      \field{sortinit}{2}
+      \field{sortinithash}{0aa614ace9f3a40ef5a67e7f7a184048}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{The name of the journal}
+      \field{month}{7}
+      \field{note}{An optional note}
+      \field{number}{2}
+      \field{title}{The title of the work}
+      \field{volume}{4}
+      \field{year}{1993}
+      \field{pages}{201\bibrangedash 213}
+      \range{pages}{13}
+    \endentry
+    \entry{conference}{inproceedings}{}
+      \name{author}{1}{}{%
+        {{hash=be0619a2ce36e910a659c155965280f1}{%
+           family={Draper},
+           familyi={D\bibinitperiod},
+           given={Peter},
+           giveni={P\bibinitperiod}}}%
+      }
+      \name{editor}{1}{}{%
+        {{hash=30887b93fb89eba22f6ed9b4ed9f8fa0}{%
+           family={editor},
+           familyi={e\bibinitperiod},
+           given={The},
+           giveni={T\bibinitperiod}}}%
+      }
+      \list{location}{1}{%
+        {The address of the publisher}%
+      }
+      \list{organization}{1}{%
+        {The organization}%
+      }
+      \list{publisher}{1}{%
+        {The publisher}%
+      }
+      \strng{namehash}{be0619a2ce36e910a659c155965280f1}
+      \strng{fullhash}{be0619a2ce36e910a659c155965280f1}
+      \strng{authornamehash}{be0619a2ce36e910a659c155965280f1}
+      \strng{authorfullhash}{be0619a2ce36e910a659c155965280f1}
+      \strng{editornamehash}{30887b93fb89eba22f6ed9b4ed9f8fa0}
+      \strng{editorfullhash}{30887b93fb89eba22f6ed9b4ed9f8fa0}
+      \field{sortinit}{3}
+      \field{sortinithash}{197da6d6c34c6b20ce45c4d4baace5a4}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{booktitle}{The title of the book}
+      \field{month}{7}
+      \field{note}{An optional note}
+      \field{series}{5}
+      \field{title}{The title of the work}
+      \field{volume}{4}
+      \field{year}{1993}
+      \field{pages}{213}
+      \range{pages}{1}
+    \endentry
+  \endsortlist
+\endrefsection
+\endinput
+
